@@ -5,7 +5,7 @@ Yearly Change
 Percent Change 
 Total Stock Volume
 ```
-*#Bonus*
+*#Bonus:*
 ```
 Greatest % Increase
 Greatest % Decrease
