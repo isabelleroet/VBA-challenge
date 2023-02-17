@@ -10,5 +10,5 @@ Conditional formatting is applied to the yearly change and percent change column
 #Bonus:
 Greatest % Increase
 Greatest % Decrease
-Greatest Total Volume.
+Greatest Total Volume
 ```
