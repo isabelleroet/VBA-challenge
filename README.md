@@ -5,9 +5,8 @@ Yearly Change
 Percent Change 
 Total Stock Volume
 ```
-Conditional formatting is applied to the yearly change and percent change columns. 
+*#Bonus*
 ```
-#Bonus:
 Greatest % Increase
 Greatest % Decrease
 Greatest Total Volume
